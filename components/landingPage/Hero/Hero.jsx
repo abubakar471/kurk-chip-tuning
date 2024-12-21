@@ -10,7 +10,7 @@ const Hero = () => {
             <div id="landing-hero" className="w-[80%] mx-auto flex items-center flex-wrap xl:flex-nowrap">``
                 <div data-aos="fade-up" className="w-full xl:w-1/2 2xl:w-6/12 pt-20">
                     <div>
-                        <p className="text-neutral-400 pb-2 border-b border-neutral-600 w-fit">Best Car Workshop</p>
+                        <p className="text-neutral-400 pb-2 border-b border-neutral-600 w-fit">Best Car Workshop Company</p>
                     </div>
 
                     <div className="pt-6 pb-10">
